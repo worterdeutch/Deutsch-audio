@@ -1,0 +1,101 @@
+{
+  "text": "Guten Tag, Sie sprechen mit dem Vertrieb von ConnectPlus. Mein Name ist Müller. Wie kann ich Ihnen heute helfen?",
+  "voice": "de-DE-AmalaNeural",
+  "words": [
+    {
+      "word": "Guten",
+      "offset": 100,
+      "duration": 412.5
+    },
+    {
+      "word": "Tag",
+      "offset": 525,
+      "duration": 375
+    },
+    {
+      "word": "Sie",
+      "offset": 1112.5,
+      "duration": 150
+    },
+    {
+      "word": "sprechen",
+      "offset": 1275,
+      "duration": 450
+    },
+    {
+      "word": "mit",
+      "offset": 1737.5,
+      "duration": 112.5
+    },
+    {
+      "word": "dem",
+      "offset": 1862.5,
+      "duration": 137.5
+    },
+    {
+      "word": "Vertrieb",
+      "offset": 2012.5,
+      "duration": 450
+    },
+    {
+      "word": "von",
+      "offset": 2475,
+      "duration": 187.5
+    },
+    {
+      "word": "ConnectPlus",
+      "offset": 2675,
+      "duration": 900
+    },
+    {
+      "word": "Mein",
+      "offset": 4437.5,
+      "duration": 262.5
+    },
+    {
+      "word": "Name",
+      "offset": 4712.5,
+      "duration": 387.5
+    },
+    {
+      "word": "ist",
+      "offset": 5112.5,
+      "duration": 237.5
+    },
+    {
+      "word": "Müller",
+      "offset": 5362.5,
+      "duration": 425
+    },
+    {
+      "word": "Wie",
+      "offset": 6650,
+      "duration": 225
+    },
+    {
+      "word": "kann",
+      "offset": 6887.5,
+      "duration": 250
+    },
+    {
+      "word": "ich",
+      "offset": 7150,
+      "duration": 125
+    },
+    {
+      "word": "Ihnen",
+      "offset": 7287.5,
+      "duration": 250
+    },
+    {
+      "word": "heute",
+      "offset": 7550,
+      "duration": 375
+    },
+    {
+      "word": "helfen",
+      "offset": 7937.5,
+      "duration": 612.5
+    }
+  ]
+}
