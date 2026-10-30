@@ -1,0 +1,12 @@
+# Security & Secrets - NEVER COMMIT
+.env*
+*.secrets
+ai_pool.js
+
+# Temporary & Backup files
+*.bak
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
